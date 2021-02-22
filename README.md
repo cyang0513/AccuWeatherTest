@@ -1,6 +1,6 @@
 # AccuWeatherTest
 
-In testsettings.json, you ca ndefine a bunch of things to make the test more flexable.
+In testsettings.json, you can define a bunch of things to make the test more flexable.
 
 For example:
 
