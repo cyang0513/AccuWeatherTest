@@ -2,5 +2,7 @@
    "StockholmKey": "314929",
    "AthensKey": "182536",
    "ApiKey": "EDkUiFhgPMVY6XE91AjhXhWIMaDeCA24",
-   "ColdThreshold": 5
+   "ColdThreshold": 15,
+   "UseMetric": "true",
+   "QueryStringBase": "http://dataservice.accuweather.com/forecasts/v1/daily/5day/"
 }
