@@ -11,7 +11,7 @@ For example:
 * "UseMetric": "true"   //If use Metric in the query
 * "QueryStringBase": "http://dataservice.accuweather.com/forecasts/v1/daily/5day/"  //Base query string
 
-Theoretically the test can be setup for any two cities, and the "code" temperature is defined as the Max temperature of the day is below "ColdThreshold" you setup.
+Theoretically the test can be setup for any two cities, and the "cold" temperature is defined as the Max temperature of the day is below "ColdThreshold" you setup.
 
 It's running on DevOps.
 [![Build Status](https://dev.azure.com/ChengkaiYang/MyApiTest/_apis/build/status/cyang0513.AccuWeatherTest?branchName=master)](https://dev.azure.com/ChengkaiYang/MyApiTest/_build/latest?definitionId=1&branchName=master)
